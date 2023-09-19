@@ -1,0 +1,17 @@
+{
+  "name": "zkexample_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.6.2",
+    "o1js": "^0.13.0",
+    "typescript": "^5.2.2"
+  }
+}
