@@ -3,7 +3,7 @@ import { MyProgram } from './zkProgram.js';
 import fs from 'fs';
 
 // type sanity checks
-console.log(MyProgram)
+console.log(MyProgram);
 MyProgram.publicOutputType satisfies Provable<void>;
 
 console.log('program digest', MyProgram.digest());
